@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> TAB Display Title </title>
+</head>
+<body>
+  <nav>
+    <li><a href="index.html"> HOME </a></li>
+    <li><a href="page2.html"> LINKS </a></li> 
+    <li><a href="https://www.coolmathgames.com/0-idle-dice?utm_content=CTA_Top_Picks"> GET IN CONTACT </a></li>
+  </nav>
+  
+  <center> 
+    <h1> Westview Hiking Club </h1>
+    <h2> This was created by Charles Russell </h2>
+  <br>
+   <img src="https://static.wixstatic.com/media/a64f91_352e2a8bf1774c3f977ff14d684e676a~mv2.jpeg/v1/fill/w_828,h_615,al_c,q_85/Image-empty-state.webp8" width="500px">
+    
+    <p>  </p> 
+   <table class="rwd-table">
+  <tr>
+    <th>Stuff</th>
+    <th>Stuff</th>
+    <th>Stuff</th>
+    <th>Stuff</th>
+  </tr>
+  <tr>
+    <td>Stuff</td>
+    <td>Stuff</td>
+    <td>Stuff</td>
+    <td>Stuff</td>
+  </tr>
+  <tr>
+    <td>Stuff</td>
+    <td>Stuff</td>
+    <td>Stuff</td>
+    <td> Stuff </td>
+  </tr>
+  <tr>
+    <td>Stuff</td>
+    <td>Stuff</td>
+    <td>Stuff</td>
+    <td>Stuff</td>
+  </tr>
+</table>
+
+<p>&larr; Drag window (in editor or full page view) to see the effect. &rarr;</p>
+    
+  </center>
+</body>
+</html>
+
+<Style>
+h1 {
+  color: #44BBA4;
+  font-size: 80px;
+}
+
+body {
+  background-color: #E7E5DF;
+  }
+
+img
+
+
+h1:hover {
+ color: #44BBA4;
+
+}
+nav {
+  list-style-type: none;
+  position: fixed;
+  background-color: #E7BB41;
+  top: 0;
+  width: 100%;
+  left: 0;
+}
+li {
+  display: inline;
+  padding: 15px;
+  float: right;
+}
+li:hover {
+  background-color: White;
+}
+
+a {
+  text-decoration: none;
+  color: #393E41;
+}
+
+Table, th, td, tr { 
+Border: solid #393E41 2px;
+border-collapse: collapse;
+pading: 10px;
+Color: #44BBA4;
+background: #393E41;
+}
+
+
+</Style>
